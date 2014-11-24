@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Class schedules
+title: "Class schedules"
+output: pdf_document
 tagline: Fall, 2014
+layout: page
 ---
 
 
