@@ -35,13 +35,14 @@ _Skills/topics covered_
 * Probability distribution functions
 * Vectorized operations
 * Dates and times
+-->
 
 _Activities_
 
 * Lady tasting tea simulation (from MOSAIC)
 * Facebook data visualization
 * permutation test with facebook data
-* estimate percentage of earth's surface covered with water, fraction w/in 5 miles of a highway, etc... (using mosaic, rgeo() and googleMap()) -->
+* estimate percentage of earth's surface covered with water, fraction w/in 5 miles of a highway, etc... (using mosaic, rgeo() and googleMap())
 
 <!--
 ```
