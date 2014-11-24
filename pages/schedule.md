@@ -1,6 +1,6 @@
 ---
 title: "Class schedules"
-output: pdf_document
+output: html_document
 tagline: Fall, 2014
 layout: page
 ---
